@@ -1,0 +1,6 @@
+instr9
+instr2
+instr19
+instr9
+instr2
+exit

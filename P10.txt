@@ -1,0 +1,10 @@
+instr20
+instr3
+instr19
+instr5
+instr2
+instr11
+instr8
+instr13
+instr14
+exit

@@ -1,0 +1,12 @@
+instr1
+instr19
+instr15
+instr18
+instr3
+instr2
+instr20
+instr15
+instr18
+instr3
+instr2
+exit
