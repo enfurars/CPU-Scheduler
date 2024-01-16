@@ -2,6 +2,6 @@
 Please first read the [description](https://github.com/enfurars/CPU-Scheduler/blob/main/Project-Description.pdf) first.
 
 ## Manuals to Run the Scheduler in Linux
-myShell can be started by running:
+Project can be started by running:
 - make
 - ./scheduler
